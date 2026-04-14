@@ -90,7 +90,7 @@ java FileName
 
 ---
 
-## 📸 Screenshots / Output
+##  Output
 
 ### 🔹 Prime Numbers in Range
 
