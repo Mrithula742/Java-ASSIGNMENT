@@ -1,6 +1,8 @@
-# Java Logic Assignments 🚀
+# 🚀 Java Logic Assignments
 
-This repository contains a collection of **core Java logic-based problems** designed to strengthen problem-solving skills for **exams, interviews, and coding practice**.
+A structured collection of **core Java programs** focused on building strong fundamentals in **data structures, algorithms, and problem-solving**.
+
+This repository is designed for **academic assignments, exam preparation, and interview practice**, covering both **logic-based problems** and **data structure implementations**.
 
 ---
 
@@ -16,7 +18,7 @@ This repository contains a collection of **core Java logic-based problems** desi
 
 ---
 
-### 🔁 Arrays (Logic Heavy)
+### 🔁 Arrays (Logic-Oriented)
 
 * Move All Zeros to End
 * Find Duplicate Element (without extra space)
@@ -26,14 +28,14 @@ This repository contains a collection of **core Java logic-based problems** desi
 
 ---
 
-### 🔤 Strings (Logic + Edge Cases)
+### 🔤 Strings
 
 * Longest Substring Without Repeating Characters
 * String Compression
 
 ---
 
-### 🔺 Patterns (Nested Loops)
+### 🔺 Patterns
 
 * Hollow Pyramid Pattern
 
@@ -45,17 +47,27 @@ This repository contains a collection of **core Java logic-based problems** desi
 
 ---
 
+### 🔗 Linked List (Data Structures)
+
+* Insert Operation in Singly Linked List
+* Delete Operation in Singly Linked List
+* Search Operation in Singly Linked List
+
+---
+
 ## 🧠 Key Features
 
-* ✅ Written using **Core Java only**
-* ❌ No built-in shortcuts
-* ✅ Focus on **logic building and edge cases**
-* ✅ Beginner-friendly and interview-oriented
+* ✅ Implemented using **Core Java**
+* ❌ No unnecessary built-in shortcuts
+* ✅ Focus on **logic building & clarity**
+* ✅ Covers **Data Structures + Problem Solving**
+* ✅ Suitable for **college assignments & interviews**
 
 ---
 
 ## 📂 Folder Structure
 
+```
 Java-Logic-Assignments/
 │
 ├── Q4_PrimeRange.java
@@ -70,19 +82,25 @@ Java-Logic-Assignments/
 ├── Q13_StringCompression.java
 ├── Q14_HollowPyramid.java
 ├── Q15_Frequency.java
+│
+├── InsertLinkedList.java
+├── DeleteLinkedList.java
+├── SearchLinkedList.java
+│
 └── README.md
+```
 
 ---
 
 ## ▶️ How to Run
 
-1. Compile:
+### 🔹 Compile
 
 ```
 javac FileName.java
 ```
 
-2. Run:
+### 🔹 Execute
 
 ```
 java FileName
@@ -90,7 +108,7 @@ java FileName
 
 ---
 
-##  Output
+## 📌 Sample Outputs
 
 ### 🔹 Prime Numbers in Range
 
@@ -113,51 +131,6 @@ LCM: 36
 
 ---
 
-### 🔹 Perfect Number
-
-```
-Input: 28
-Output: Perfect
-```
-
----
-
-### 🔹 Armstrong Number
-
-```
-Input: 153
-Output: Armstrong
-```
-
----
-
-### 🔹 Strong Number
-
-```
-Input: 145
-Output: Strong
-```
-
----
-
-### 🔹 Move Zeros to End
-
-```
-Input: [1, 0, 2, 0, 3]
-Output: [1, 2, 3, 0, 0]
-```
-
----
-
-### 🔹 Leaders in Array
-
-```
-Input: [16, 17, 4, 3, 5, 2]
-Output: 17 5 2
-```
-
----
-
 ### 🔹 String Compression
 
 ```
@@ -167,47 +140,31 @@ Output: a2b1c2
 
 ---
 
-### 🔹 Hollow Pyramid
+### 🔹 Linked List (Search)
 
 ```
-    *
-   * *
-  *   *
- *     *
- *******
-```
+Input:
+Enter number of elements: 3
+10 20 30
+Enter value to search: 20
 
----
-
-### 🔹 Frequency of Elements
-
-```
-Input: [1,2,2,3,1]
 Output:
-1 -> 2
-2 -> 2
-3 -> 1
+Element found at position: 2
 ```
 
 ---
 
 ## 🎯 Learning Outcomes
 
-* Strong understanding of **loops and conditions**
-* Improved **problem-solving skills**
+* Strong understanding of **core Java concepts**
+* Hands-on practice with **data structures (Linked List)**
+* Improved **algorithmic thinking**
 * Better handling of **edge cases**
-* Preparation for **technical interviews**
+* Preparation for **technical interviews and exams**
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-* GitHub: https://github.com/Mrithula742
-
----
-
-## ⭐ Note
-
-This repository is part of my journey in mastering **Java problem-solving**.
-
----
+**Mrithula J**
+🔗 GitHub: https://github.com/Mrithula742
